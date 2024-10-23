@@ -27,7 +27,7 @@
   }
   
   a {
-    color: rgba(10, 49, 226, 0.911);
+    color: rgba(10, 49, 226, 0.91); /* Reduced precision */
     font-size: large;
   }
   
@@ -54,4 +54,3 @@
   .footer_ul {
     list-style-type: none;
   }
-  
